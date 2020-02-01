@@ -3,8 +3,8 @@
 GatorGrader example that contains a solution to a C programming project:
 https://github.com/GatorEducator/c-assignment-solution-201-02
 
-This is the companion "starter" repository (i.e., the repository given to students):
-https://github.com/GatorEducator/c-assignment-starter-201-02
+This is the companion "solution" repository (i.e., the repository given to students):
+https://github.com/GatorEducator/c-assignment-solution-201-02
 
 Learn more about GatorGrader and its supported checks by visiting this web site:
 https://github.com/GatorEducator/gatorgrader
@@ -17,11 +17,11 @@ Problems? Raise an issue in the issue tracker for this assignment!
 
 <p align="center">
 <b>
-Automated assessment for an assignment on Java programming and technical writing in Markdown
+Automated assessment for an assignment on C programming and technical writing in Markdown
 </b>
 </p>
 
-# c-assignment-solution-201-02
+# c-assignment-starter-201-02
 
 ## Table of Contents
 
@@ -46,8 +46,8 @@ Designed for use with [GitHub Classroom](https://classroom.github.com/) and
 [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository
 contains the solution for a laboratory assignment in an upper level computer
 science class that uses the C programming language. The Travis CI builds for
-this repository will pass, as evidenced by a green &#x2714; instead of a red
-&#x2717; appearing in the commit logs. An instructor would use this repository
+this repository will not pass, as evidenced by a red &#x2717; instead of a
+green  &#x2714; appearing in the commit logs. An instructor would use this repository
 to create a "starter" repository with purposefully omitted features that a
 student would then need to add in order to achieve the stated learning
 objectives. Please bear in mind that much of the content in this document is
@@ -255,7 +255,7 @@ command `echo $?`).
 
 ```
         ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-        ┃ Passed 11/12 (95%) of checks for c-assignment-solution-100-01!     ┃
+        ┃ Passed 4/12 (33%) of checks for c-assignment-starter-201-02!       ┃
         ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
